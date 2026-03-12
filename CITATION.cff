@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+title: pyGinkgo
+authors:
+  - family-names: Keshvi
+    given-names: Keshvi
+message: "Please cite this repository if you use it."
